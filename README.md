@@ -2,8 +2,8 @@
 
 <div align="center"><img src="https://img.shields.io/badge/C-100%25-blue"> 
 <img src="https://img.shields.io/badge/Convenção-C-blue"/>
-<img src="https://img.shields.io/badge/Fluxograma-lightgrey"/>
 <img src="https://img.shields.io/badge/License-MIT-blue"/>
+<img src="https://img.shields.io/badge/Fluxograma-lightgrey"/>
 </div>
 
 <h3 align="center">Sitação do projeto:</h3>
