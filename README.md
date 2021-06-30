@@ -22,12 +22,13 @@ Um editor de sua preferência para trabalhar com o código, como [Pelles C](http
 $ git clone https://github.com/said2288/livroc.git
 ```
 
-### 🛠 Tecnologias - Linguagem e Convenção
+### 🛠 Tecnologias - Linguagem, Convenção e Fluxograma
 
 Linguagem usada na construção do projeto:
 
 - [C](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160)
 - [Convenção C](https://github.com/kelvins/Boas-Praticas-Cplusplus)
+- [Fluxograma](https://www.youtube.com/watch?v=T12e00hvV6o&list=PL838IdaPZmcuK0yRloRMzZAxKTlJcOsfL&index=3)
 
 
 ### ⚒️ Ferramentas
