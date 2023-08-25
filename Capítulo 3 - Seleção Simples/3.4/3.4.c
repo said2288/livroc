@@ -4,7 +4,7 @@ se puderem, classifique o triângulo como equilátero, isósceles ou escaleno.*/
 #include <stdio.h>
 
 int main(void)
-{
+{ 
 
 	float medida_um, medida_dois, medida_tres;
 
