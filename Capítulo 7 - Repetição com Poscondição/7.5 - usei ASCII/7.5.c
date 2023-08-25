@@ -5,7 +5,7 @@ ao final, o usuário tenha a opção de repetir o processo. Fiz a escolha do exe
 #include <ctype.h>
 
 int main(void)
-{
+{ 
 
     float primeira_nota, segunda_nota, media;
 
