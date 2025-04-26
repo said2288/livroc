@@ -7,7 +7,7 @@
 </div>
 
 <h3 align="center">Sitação do projeto:</h3>
-<h5 align="center">🚀 Projeto em andamento! 🚀</h5>
+<h5 align="center">🚀 Livro concluído! 🚀</h5>
 
 
 ### Pré-requisitos
@@ -24,8 +24,6 @@ $ git clone https://github.com/said2288/livroc.git
 ```
 
 ### 🛠 Tecnologias - Linguagem, Convenção e Fluxograma
-
-Linguagem usada na construção do projeto:
 
 - [C](https://docs.microsoft.com/pt-br/cpp/c-language/?view=msvc-160)
 - [Convenção C](https://github.com/kelvins/Boas-Praticas-Cplusplus)
