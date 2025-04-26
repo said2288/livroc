@@ -34,6 +34,13 @@ $ git clone https://github.com/said2288/livroc.git
 
 - [IDE Pelles C](https://down10.software/download-pelles-c/)
 
+### Fluxograma
+
+Utilizei as ferramentas para realizar os fluxogramas dos exercícios:
+
+- [Draw.io](https://app.diagrams.net/) Criado pelo mesmo até o capítulo 11.
+- [Visustn](https://www.aivosto.com/) Criado pelo mesmo do capítulo 12 ao 13.
+
 Feito por Mohamad Montalbo
 
 <div align="center"><img src="https://img.shields.io/badge/(19) 983999224-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"/>
